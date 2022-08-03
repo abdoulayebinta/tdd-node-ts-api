@@ -7,4 +7,5 @@ Build a RESTful API using TDD with Jest.
 ```sh
 > npm test
 > npm test -- --coverage  # display test coverage
+> npm run test:watch      # run test in watch mode
 ```
